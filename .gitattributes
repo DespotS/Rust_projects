@@ -1,0 +1,3 @@
+*.rs linguist-language=Rust
+CMakeLists.txt linguist-generated=true
+*.cmake linguist-generated=true
